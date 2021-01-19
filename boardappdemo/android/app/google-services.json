@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005860235934",
+    "project_id": "boardappdemo-df382",
+    "storage_bucket": "boardappdemo-df382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005860235934:android:44417c3b96c1879027e98f",
+        "android_client_info": {
+          "package_name": "com.example.boardappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005860235934-g93c36h2u9vnv10rabfm4l69viibsv8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwCyKzvkyhdSvZyslIJe8Q3xpjluvknro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005860235934-g93c36h2u9vnv10rabfm4l69viibsv8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
